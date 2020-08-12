@@ -7,4 +7,10 @@ const app = new App({
 	}
 });
 
+if('serviceWorker' in navigator) {
+	navigator.serviceWorker
+		.register('/sw.js')
+		.then(function() { console.log("Service Worker Registered"); });
+  }
+
 export default app;
