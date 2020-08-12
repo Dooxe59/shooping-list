@@ -49,7 +49,7 @@
 
 
 /* eslint-disable quotes, comma-spacing */
-var PrecacheConfig = [["/build/bundle.css","823c20e4b60607173aba3802484afcd1"],["/build/bundle.js","9ab10ac072b056daaee7470aaab37043"],["/favicon.png","c64beab291de80970aa4887a5a1c9135"],["/global.css","c38513a7205512f916df1c955538a662"],["/img/icon.png","396a15b39b3af06af99021ea315c11c0"],["/index.html","4e17e4e268dc0c6e059a2070e76b75cf"]];
+var PrecacheConfig = [["/build/bundle.css","823c20e4b60607173aba3802484afcd1"],["/build/bundle.js","fb47e72e909b13edc29e93253ccd0977"],["/favicon.png","30aaa0fbde7a12f8ab40f39164e080db"],["/global.css","c38513a7205512f916df1c955538a662"],["/img/icon.png","396a15b39b3af06af99021ea315c11c0"],["/index.html","993426d8d8339fa0dde120918ae3405e"]];
 /* eslint-enable quotes, comma-spacing */
 var CacheNamePrefix = 'sw-precache-v1--' + (self.registration ? self.registration.scope : '') + '-';
 

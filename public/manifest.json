@@ -1,11 +1,11 @@
 {
-  "name": "Shopping list",
-  "short_name": "SL",
+  "name": "Liste de courses",
+  "short_name": "LC",
   "icons": [{
-        "src": "./img/icon.png",
-        "sizes": "225x225",
-        "type": "image/png"
-      }],
+    "src": "./img/icon.png",
+    "sizes": "225x225",
+    "type": "image/png"
+  }],
   "start_url": "/",
   "display": "standalone",
   "background_color": "#3E4EB8",
